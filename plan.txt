@@ -1,0 +1,13 @@
+pseudo structure
+##
+open virtual identity webpage
+look for careers button
+click careers button
+make a list of all available positions along with their identifiers
+if the position contains tester or Quality assurance or QA
+then click on it
+Apply using firstName Last firstName
+add Email id    
+attach CV 
+Apply
+close browser
